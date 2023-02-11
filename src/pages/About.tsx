@@ -48,6 +48,7 @@ function About() {
           <div className="flex flex-column">
             <div className="flex flex-row">
               <h4>McMaster University</h4>
+              <p>2018 - 2023</p>
             </div>
           </div>
         </div>
