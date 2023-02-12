@@ -13,7 +13,7 @@ export const Experience = () => {
       <ExperienceCard
         link="http://www.hydroone.ca"
         image={hydrooneIcon}
-        description="Advanced Metering Infrastructure - Complex Metering (Co-op)"
+        description="AMI Engineering Intern - Complex Metering"
         company="Hydro One"
         date="2021 - 2022"
       />
