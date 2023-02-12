@@ -9,13 +9,13 @@ export const ExperienceCard = (props: {
 }) => {
   return (
     <div>
-      <div className="flex flex-row pt-8">
+      <div className="flex flex-row pt-8 ">
         <div>
           <a href={props.link}>
             <img
               src={props.image}
               width={50}
-              className="opacity-80 hover:opacity-90 hover:scale-105 duration-200"
+              className="opacity-80 hover:opacity-100 hover:scale-105 duration-200"
             />
           </a>
         </div>

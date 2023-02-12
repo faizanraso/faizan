@@ -1,7 +1,5 @@
 import React from "react";
 
-import { colours } from "../assets/colours";
-
 export const Nav = () => {
   return (
     <nav className="nav-bar py-14 text-center flex-row">

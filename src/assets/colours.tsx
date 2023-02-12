@@ -9,6 +9,9 @@ export const colours = {
   experienceText: "#9b9b9b",
   dateBackground: "#252525",
   dateText: "#7b7b7b",
+  //project card
+  projectHeader: "#fefefe",
+  linkHover: "#4d4d4d",
   //button
   buttonText: "#8b8b8b",
   buttonHover: "#8b8b8b",

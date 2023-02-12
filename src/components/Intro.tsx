@@ -2,11 +2,11 @@ import React from "react";
 
 export const Intro = () => {
   return (
-    <div>
-      <div className="sm:w-8/12 md:w-6/12 m-auto pt-8 pb-6">
+    <div className="px-1">
+      <div className="sm:w-8/12 md:w-2/5 m-auto pt-8 pb-6 ">
         <h1 className="text-3xl font-bold text-[#e4e4e4]">Faizan Rasool</h1>
       </div>
-      <div className="sm:w-8/12 md:w-6/12 m-auto text-base leading-7 ">
+      <div className="sm:w-8/12 md:w-2/5 m-auto text-base leading-7 ">
         <p className="text-[#cecece]">
           Hey, I'm Faizan and I'm an electrical engineering student at{" "}
           <a
@@ -15,7 +15,7 @@ export const Intro = () => {
           >
             McMaster University.{" "}
           </a>
-          Inspired by a passion for solving complex problems and driven by a
+          Inspired by a passion for solving complex problems and driven by my
           love for technology, I aim to make a difference as an engineer.
         </p>
         <br />

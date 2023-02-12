@@ -8,12 +8,12 @@ import paperIcon from "../assets/images/paper.png";
 
 export const Experience = () => {
   return (
-    <div className="experiences-section sm:w-8/12 md:w-6/12 mt-4 mx-auto pt-6 pb-4">
-      <h2 className="text-2xl font-bold text-[#9f9f9f]">Experience</h2>
+    <div className="experiences-section sm:w-8/12 md:w-2/5 mt-3 mx-auto pt-6 pb-4 px-1">
+      <h2 className="text-xl font-bold text-[#9f9f9f]">Experience</h2>
       <ExperienceCard
         link="http://www.hydroone.ca"
         image={hydrooneIcon}
-        description="Advanced Metering Infrastructure - Complex Metering"
+        description="Advanced Metering Infrastructure - Complex Metering (Co-op)"
         company="Hydro One"
         date="2021 - 2022"
       />
@@ -29,7 +29,7 @@ export const Experience = () => {
         image={mcmasterIcon}
         description="Teaching Assistant - Integrated Cornerstone Design Projects in Engineering"
         company="McMaster"
-        date="2021 - 2021"
+        date="2021"
       />
     </div>
   );
