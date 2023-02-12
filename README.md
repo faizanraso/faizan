@@ -1,2 +1,2 @@
 # faizan
-Portfolio Website: htttps://www.rasool.ca
+Portfolio Website: https://www.rasool.ca
