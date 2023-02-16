@@ -8,7 +8,7 @@ import paperIcon from "../assets/images/paper.png";
 
 export const Experience = () => {
   return (
-    <div className="experiences-section sm:w-8/12 md:w-2/5 mt-3 mx-auto pt-6 pb-4 px-1">
+    <div className="experiences-section sm:w-8/12 md:w-3/5 mt-3 mx-auto pt-6 pb-4 px-1">
       <h2 className="text-xl font-bold text-[#9f9f9f]">Experience</h2>
       <ExperienceCard
         link="http://www.hydroone.ca"

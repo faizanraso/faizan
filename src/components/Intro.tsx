@@ -3,10 +3,10 @@ import React from "react";
 export const Intro = () => {
   return (
     <div className="px-1">
-      <div className="sm:w-8/12 md:w-2/5 m-auto pt-8 pb-6 ">
+      <div className="sm:w-8/12 md:w-3/5 m-auto pt-8 pb-6 ">
         <h1 className="text-3xl font-bold text-[#e4e4e4]">Faizan Rasool</h1>
       </div>
-      <div className="sm:w-8/12 md:w-2/5 m-auto text-base leading-7 ">
+      <div className="sm:w-8/12 md:w-3/5 m-auto text-base leading-7 ">
         <p className="text-[#cecece]">
           Hey, I'm Faizan and I'm an electrical engineering student at{" "}
           <a
