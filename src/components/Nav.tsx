@@ -4,7 +4,7 @@ export const Nav = () => {
   return (
     <nav className="nav-bar py-14 text-center flex-row">
       <a
-        className="py-2 px-4 mx-1 text-sm text-[#8b8b8b] font-bold hover:text-[#e4e4e4]"
+        className="py-2 pr-4 mx-1 text-sm text-[#8b8b8b] font-bold hover:text-[#e4e4e4]"
         href="/"
       >
         About
