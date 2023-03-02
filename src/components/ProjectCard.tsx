@@ -13,7 +13,7 @@ export const ProjectCard = (props: {
             href={props.link}
             className="rounded transition ease-in-out delay-50 hover:bg-[#4d4d4d] duration-300 px-1"
           >
-            {props.name}
+            {props.name} <span className="text-xs">↗</span>
           </a>
         </h3>
       </div>

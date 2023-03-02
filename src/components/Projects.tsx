@@ -8,12 +8,12 @@ export const Projects = () => {
       <div className="grid sm:grid-cols-1 md:grid-cols-2">
         <ProjectCard
           link="https://github.com/CapstoneS01"
-          name="Sky Hunt ↗"
+          name="Sky Hunt "
           description="Currently working on equipping drones with computer vision technology - optimzied for missing person searches."
         />
         <ProjectCard
           link="https://github.com/faizanraso/my-pantry"
-          name="My Pantry Check ↗"
+          name="My Pantry Check "
           description="A pantry inventory management system built using React Native."
         />
       </div>
