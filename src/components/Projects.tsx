@@ -7,9 +7,14 @@ export const Projects = () => {
       <h2 className="text-xl font-bold text-[#9f9f9f] pb-2 px-1">Projects</h2>
       <div className="grid sm:grid-cols-1 md:grid-cols-2">
         <ProjectCard
+          link="https://algos-seven.vercel.app/"
+          name="Algos"
+          description="A sorting algorithm visualizer built using React and TypeScript."
+        />
+        <ProjectCard
           link="https://github.com/CapstoneS01"
           name="Sky Hunt "
-          description="Currently working on equipping drones with computer vision technology - optimzied for missing person searches."
+          description="Equipping drones with computer vision technology - optimzied for missing person searches."
         />
         <ProjectCard
           link="https://github.com/faizanraso/my-pantry"
